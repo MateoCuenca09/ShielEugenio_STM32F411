@@ -318,6 +318,522 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector_Generic:Conn_01x04"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x04"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x04_1_1"
+				(rectangle
+					(start -1.27 3.81)
+					(end 1.27 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Connector_Generic:Conn_01x08"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x08"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x08_1_1"
+				(rectangle
+					(start -1.27 8.89)
+					(end 1.27 -11.43)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 7.747)
+					(end 0 7.493)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 5.207)
+					(end 0 4.953)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -7.493)
+					(end 0 -7.747)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -10.033)
+					(end 0 -10.287)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 7.62 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 5.08 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -7.62 0)
+					(length 3.81)
+					(name "Pin_7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -10.16 0)
+					(length 3.81)
+					(name "Pin_8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector_Generic:Conn_02x08_Counter_Clockwise"
 			(pin_names
 				(offset 1.016)
@@ -2401,6 +2917,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(junction
+		(at 26.67 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "72812fcd-69e8-4e3c-b6d9-fc97feec1fe6")
+	)
+	(junction
+		(at 48.26 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ebdac13-bb94-4818-a4af-af6c12f5dae5")
+	)
 	(wire
 		(pts
 			(xy 25.4 137.16) (xy 30.48 137.16)
@@ -2623,6 +3151,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 124.46) (xy 186.69 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ceeffec-883a-4976-ae87-700057f84fb2")
+	)
+	(wire
+		(pts
 			(xy 43.18 86.36) (xy 48.26 86.36)
 		)
 		(stroke
@@ -2700,6 +3238,16 @@
 			(type default)
 		)
 		(uuid "384809c7-82e6-45a5-b8b1-11390504e37d")
+	)
+	(wire
+		(pts
+			(xy 48.26 25.4) (xy 49.53 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40498a43-c24a-4c99-9f99-f1a1987a86c8")
 	)
 	(wire
 		(pts
@@ -2813,6 +3361,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 40.64) (xy 48.26 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f64a02e-b5c7-4021-a580-fe1bfb681fc8")
+	)
+	(wire
+		(pts
 			(xy 43.18 53.34) (xy 48.26 53.34)
 		)
 		(stroke
@@ -2820,6 +3378,16 @@
 			(type default)
 		)
 		(uuid "627e74c4-5573-444c-b644-d09b021776bb")
+	)
+	(wire
+		(pts
+			(xy 172.72 120.65) (xy 186.69 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "649c8d7e-6002-421e-ab81-c7d7621bef51")
 	)
 	(wire
 		(pts
@@ -2933,6 +3501,16 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 76.2) (xy 186.69 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "763f9696-f4ec-4b29-acad-659782f6320d")
+	)
+	(wire
+		(pts
 			(xy 43.18 124.46) (xy 46.99 124.46)
 		)
 		(stroke
@@ -2950,6 +3528,16 @@
 			(type default)
 		)
 		(uuid "7a0fbaed-5a10-4dc4-bdbe-955aea26047f")
+	)
+	(wire
+		(pts
+			(xy 172.72 127) (xy 186.69 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c55a832-0cf1-4dd7-9430-db325d530a9b")
 	)
 	(wire
 		(pts
@@ -3003,6 +3591,16 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 82.55) (xy 186.69 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "832467a4-977e-4732-8e9d-5246e9fbd5f8")
+	)
+	(wire
+		(pts
 			(xy 25.4 134.62) (xy 30.48 134.62)
 		)
 		(stroke
@@ -3030,6 +3628,16 @@
 			(type default)
 		)
 		(uuid "90e8159e-1a2f-4eeb-8a57-d78ecb17d128")
+	)
+	(wire
+		(pts
+			(xy 172.72 107.95) (xy 186.69 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "929ff59b-e62e-4819-8cfe-df5949fbd063")
 	)
 	(wire
 		(pts
@@ -3073,6 +3681,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 110.49) (xy 186.69 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b4b489d-d761-4d01-a516-67d298f858a1")
+	)
+	(wire
+		(pts
 			(xy 43.18 43.18) (xy 48.26 43.18)
 		)
 		(stroke
@@ -3083,16 +3701,6 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 43.18) (xy 30.48 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c51f9b0-647a-4bf8-8085-74d455c63277")
-	)
-	(wire
-		(pts
 			(xy 22.86 63.5) (xy 30.48 63.5)
 		)
 		(stroke
@@ -3100,6 +3708,36 @@
 			(type default)
 		)
 		(uuid "9ca0cfe9-311d-4679-a7e3-7b1188c59041")
+	)
+	(wire
+		(pts
+			(xy 20.32 25.4) (xy 26.67 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e38d8dd-fd1a-4259-8894-496ec29f53e8")
+	)
+	(wire
+		(pts
+			(xy 20.32 43.18) (xy 30.48 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f1fe017-9daf-4a3f-9a3c-3bbf0a06dd20")
+	)
+	(wire
+		(pts
+			(xy 172.72 101.6) (xy 186.69 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f66b225-b1f3-4729-b84c-61b4be536b70")
 	)
 	(wire
 		(pts
@@ -3193,6 +3831,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 25.4) (xy 48.26 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5dcbe33-7a42-49aa-987e-d4fb17b291bb")
+	)
+	(wire
+		(pts
 			(xy 96.52 45.72) (xy 100.33 45.72)
 		)
 		(stroke
@@ -3273,6 +3921,16 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 78.74) (xy 186.69 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbab9ec5-15a6-49da-bf2f-2a987341c702")
+	)
+	(wire
+		(pts
 			(xy 25.4 175.26) (xy 30.48 175.26)
 		)
 		(stroke
@@ -3280,6 +3938,16 @@
 			(type default)
 		)
 		(uuid "ce348826-7d07-4ddf-8023-f817e13bff71")
+	)
+	(wire
+		(pts
+			(xy 20.32 43.18) (xy 20.32 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce53ec32-1ceb-41c9-8a99-39a0721da78b")
 	)
 	(wire
 		(pts
@@ -3333,6 +4001,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 118.11) (xy 186.69 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8c22226-701c-40f2-9542-fa928deb20c2")
+	)
+	(wire
+		(pts
 			(xy 25.4 162.56) (xy 30.48 162.56)
 		)
 		(stroke
@@ -3360,6 +4038,16 @@
 			(type default)
 		)
 		(uuid "dcb6f3b8-d8bc-4a05-9ec4-caaf34c8e086")
+	)
+	(wire
+		(pts
+			(xy 172.72 104.14) (xy 186.69 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd5f113a-7bde-4918-baef-5d3741ad8d86")
 	)
 	(wire
 		(pts
@@ -3483,6 +4171,16 @@
 	)
 	(wire
 		(pts
+			(xy 26.67 25.4) (xy 29.21 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebf6dd36-23e1-472b-a8df-cd665b536f68")
+	)
+	(wire
+		(pts
 			(xy 22.86 50.8) (xy 30.48 50.8)
 		)
 		(stroke
@@ -3540,6 +4238,16 @@
 			(type default)
 		)
 		(uuid "f7a54306-8065-4a26-b711-9ee615faf967")
+	)
+	(wire
+		(pts
+			(xy 173.99 85.09) (xy 186.69 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcb9353a-e298-484e-8558-8dad6a014d71")
 	)
 	(wire
 		(pts
@@ -4723,34 +5431,34 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 157.48 109.22 0)
+		(at 26.67 20.32 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "0e1bd773-25cc-42c6-8ecc-d709d1db6ea6")
-		(property "Reference" "2_Out_Ampl2"
-			(at 160.02 109.2199 0)
+		(uuid "03ec0b22-1e94-4285-ac36-e082323f29a1")
+		(property "Reference" "SRC_PWR_VCC1"
+			(at 31.75 19.0499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 160.02 111.7599 0)
+			(at 31.75 21.5899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 157.48 109.22 0)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+			(at 26.67 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4759,7 +5467,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 157.48 109.22 0)
+			(at 26.67 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4768,7 +5476,75 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 157.48 109.22 0)
+			(at 26.67 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "320eaf55-1187-4d6c-87af-4616d051a5f7")
+		)
+		(pin "2"
+			(uuid "55068b71-7a48-4491-b750-29b14079f977")
+		)
+		(instances
+			(project ""
+				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
+					(reference "SRC_PWR_VCC1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 167.64 110.49 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0e1bd773-25cc-42c6-8ecc-d709d1db6ea6")
+		(property "Reference" "2_Out_Ampl2"
+			(at 159.258 108.966 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 159.258 106.934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 167.64 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 167.64 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4793,34 +5569,32 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 157.48 101.6 0)
+		(at 167.64 104.14 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1499f76a-ec55-4f17-adb0-99d364c9b617")
 		(property "Reference" "1_Out_Ampl2"
-			(at 160.02 101.5999 0)
+			(at 159.512 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 160.02 104.1399 0)
+			(at 159.766 103.632 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
-			(at 157.48 101.6 0)
+			(at 167.64 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4829,7 +5603,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 157.48 101.6 0)
+			(at 167.64 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4838,7 +5612,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 157.48 101.6 0)
+			(at 167.64 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4863,34 +5637,31 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 157.48 74.93 0)
+		(at 168.91 78.74 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "15287157-564a-413e-8a5d-524e5ad7ddcc")
 		(property "Reference" "1_Out_Ampl1"
-			(at 160.02 74.9299 0)
+			(at 159.512 75.946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 160.02 77.4699 0)
+			(at 159.512 78.486 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 157.48 74.93 0)
+			(at 168.91 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4899,7 +5670,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 157.48 74.93 0)
+			(at 168.91 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4908,7 +5679,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 157.48 74.93 0)
+			(at 168.91 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4926,6 +5697,76 @@
 			(project "Mother_STM32F411_Disco"
 				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
 					(reference "1_Out_Ampl1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 46.99 20.32 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "217d704f-9581-490d-9565-8ea1367284d1")
+		(property "Reference" "SRC_PWR_GND1"
+			(at 52.07 19.0499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 52.07 21.5899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+			(at 46.99 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 46.99 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 46.99 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6788802e-f049-4d3a-9038-798e5c4d13cb")
+		)
+		(pin "2"
+			(uuid "cf001654-15c6-4908-8a51-220f9ce6e4d4")
+		)
+		(instances
+			(project "Mother_STM32F411_Disco"
+				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
+					(reference "SRC_PWR_GND1")
 					(unit 1)
 				)
 			)
@@ -5137,6 +5978,223 @@
 			(project ""
 				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
 					(reference "Conn_Izq_STM_Disco1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 191.77 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2c121778-9ad9-4cb7-b04b-f670834e77bf")
+		(property "Reference" "Out_Speaker_Ampl3_1"
+			(at 194.31 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 194.31 120.6499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 191.77 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 191.77 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "de1e9ccd-6887-4264-9852-26195de94ddc")
+		)
+		(pin "1"
+			(uuid "835d3091-178b-4913-9c2e-e45ddad065cb")
+		)
+		(instances
+			(project "Mother_STM32F411_Disco"
+				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
+					(reference "Out_Speaker_Ampl3_1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 191.77 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "41498d09-3214-4536-baaa-1d5822dd6e74")
+		(property "Reference" "Out_Speaker_Ampl1_1"
+			(at 194.31 76.1999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 194.31 78.7399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 191.77 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 191.77 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a407dbee-6e53-4254-b630-b0b3918348bc")
+		)
+		(pin "1"
+			(uuid "d0fadb04-f3f6-459f-94b3-7e8ae43fc8a6")
+		)
+		(instances
+			(project "Mother_STM32F411_Disco"
+				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
+					(reference "Out_Speaker_Ampl1_1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 134.62 172.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "47c6d9c7-a11c-413b-8421-46399a0dfd32")
+		(property "Reference" "UART1"
+			(at 137.16 172.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x04"
+			(at 137.16 175.2599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 134.62 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 134.62 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "faf51217-03bf-4221-9ff0-f81d5b7e6051")
+		)
+		(pin "3"
+			(uuid "7a81c0c1-dbe0-4609-9c93-479824e3eb16")
+		)
+		(pin "4"
+			(uuid "c393e5d6-b5ab-4e09-9b22-c830eb9614cd")
+		)
+		(pin "1"
+			(uuid "c1689557-c356-4f2e-94e5-a4f3412f55d6")
+		)
+		(instances
+			(project ""
+				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
+					(reference "UART1")
 					(unit 1)
 				)
 			)
@@ -5356,34 +6414,31 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 157.48 82.55 0)
+		(at 168.91 85.09 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5ce4f597-3fec-4ab9-a637-80df25b236ab")
 		(property "Reference" "2_Out_Ampl1"
-			(at 160.02 82.5499 0)
+			(at 159.004 82.042 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 160.02 85.0899 0)
+			(at 159.004 84.582 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 157.48 82.55 0)
+			(at 168.91 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5392,7 +6447,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 157.48 82.55 0)
+			(at 168.91 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5401,7 +6456,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 157.48 82.55 0)
+			(at 168.91 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5419,6 +6474,76 @@
 			(project "Mother_STM32F411_Disco"
 				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
 					(reference "2_Out_Ampl1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 191.77 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "74f47cda-1340-45f9-aaa4-49254e09da40")
+		(property "Reference" "Out_Speaker_Ampl2_2"
+			(at 194.31 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 194.31 110.4899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 191.77 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 191.77 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ff0ebb67-e770-4277-b303-104bc6b60c35")
+		)
+		(pin "1"
+			(uuid "e86dbd72-53c0-42f3-bc09-a1d74d8e60cb")
+		)
+		(instances
+			(project "Mother_STM32F411_Disco"
+				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
+					(reference "Out_Speaker_Ampl2_2")
 					(unit 1)
 				)
 			)
@@ -5450,6 +6575,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -5489,6 +6615,76 @@
 			(project "Mother_STM32F411_Disco"
 				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
 					(reference "PWR_Ampl2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 191.77 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "853c4863-be3f-4b54-8828-f875b3766f77")
+		(property "Reference" "Out_Speaker_Ampl3_2"
+			(at 194.31 124.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 194.31 126.9999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 191.77 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 191.77 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1a132d66-7055-4a86-9f24-bf59eac55a89")
+		)
+		(pin "1"
+			(uuid "c05794c9-a8ec-45d7-ac08-3986ce6c623a")
+		)
+		(instances
+			(project "Mother_STM32F411_Disco"
+				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
+					(reference "Out_Speaker_Ampl3_2")
 					(unit 1)
 				)
 			)
@@ -5574,7 +6770,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ab353820-7428-488f-9478-4452c6f1d3e7")
-		(property "Reference" "Multiplex_Audio_in"
+		(property "Reference" "Multiplex_Audio_in1"
 			(at 90.17 36.83 0)
 			(effects
 				(font
@@ -5668,7 +6864,7 @@
 		(instances
 			(project ""
 				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
-					(reference "Multiplex_Audio_in")
+					(reference "Multiplex_Audio_in1")
 					(unit 1)
 				)
 			)
@@ -5773,6 +6969,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -5822,34 +7019,32 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 157.48 118.11 0)
+		(at 167.64 120.65 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d34d66e6-a45d-4970-9f81-873817d386d8")
 		(property "Reference" "1_Out_Ampl3"
-			(at 160.02 118.1099 0)
+			(at 159.512 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 160.02 120.6499 0)
+			(at 159.258 120.396 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
-			(at 157.48 118.11 0)
+			(at 167.64 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5858,7 +7053,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 157.48 118.11 0)
+			(at 167.64 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5867,7 +7062,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 157.48 118.11 0)
+			(at 167.64 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5916,6 +7111,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -5961,6 +7157,165 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 191.77 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1dfe5f8-028f-4959-84f1-729e4bb06c02")
+		(property "Reference" "Out_Speaker_Ampl1_2"
+			(at 194.31 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 194.31 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 191.77 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 191.77 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "35922157-0b6f-47b3-8e82-3df75c53a6c7")
+		)
+		(pin "1"
+			(uuid "8fa687ef-b9f2-4a52-9af4-2cd9c8901b33")
+		)
+		(instances
+			(project "Mother_STM32F411_Disco"
+				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
+					(reference "Out_Speaker_Ampl1_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x08")
+		(at 134.62 143.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e650a5f2-f225-420c-bffb-2ccdde38dfac")
+		(property "Reference" "UI_Local1"
+			(at 137.16 143.5099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x08"
+			(at 137.16 146.0499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 134.62 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 134.62 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e86b3d7d-34f9-4a8c-9594-d268293f8ec1")
+		)
+		(pin "6"
+			(uuid "95d77888-dcd8-4036-a69e-1145406c5e8d")
+		)
+		(pin "7"
+			(uuid "a8dba1f9-d187-4135-82cb-4921a9a56a92")
+		)
+		(pin "2"
+			(uuid "65ef122c-563c-4ccb-b82d-56bddc5d5ed7")
+		)
+		(pin "3"
+			(uuid "ab0ebdd8-86a6-4efc-a9cc-db125d8fcab1")
+		)
+		(pin "4"
+			(uuid "6df93a72-42f8-45bb-8f21-dcaa54b00edf")
+		)
+		(pin "8"
+			(uuid "6f20b259-338a-4631-977e-26d73f30f4f1")
+		)
+		(pin "5"
+			(uuid "4d1a597c-1ccd-4298-b93e-bfea58b854f9")
+		)
+		(instances
+			(project ""
+				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
+					(reference "UI_Local1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
 		(at 134.62 102.87 0)
 		(unit 1)
@@ -5986,6 +7341,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -6035,34 +7391,32 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 157.48 125.73 0)
+		(at 167.64 127 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ed8999d2-04f8-4883-ba59-a5ca6032f36e")
 		(property "Reference" "2_Out_Ampl3"
-			(at 160.02 125.7299 0)
+			(at 159.512 125.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 160.02 128.2699 0)
+			(at 159.004 126.492 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
-			(at 157.48 125.73 0)
+			(at 167.64 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6071,7 +7425,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 157.48 125.73 0)
+			(at 167.64 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6080,7 +7434,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 157.48 125.73 0)
+			(at 167.64 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6098,6 +7452,76 @@
 			(project "Mother_STM32F411_Disco"
 				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
 					(reference "2_Out_Ampl3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 191.77 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fa4d4a96-1621-47ab-b373-33edaf9838fb")
+		(property "Reference" "Out_Speaker_Ampl2_1"
+			(at 194.31 101.5999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 194.31 104.1399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 191.77 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 191.77 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f0474b67-c2ea-476f-a4f5-fe7dbee01282")
+		)
+		(pin "1"
+			(uuid "86e6e573-b7ec-4770-99ac-bd41cd05d696")
+		)
+		(instances
+			(project "Mother_STM32F411_Disco"
+				(path "/a39c1df0-9e3d-4c83-b910-4e288e398b9e"
+					(reference "Out_Speaker_Ampl2_1")
 					(unit 1)
 				)
 			)
